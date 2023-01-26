@@ -7,7 +7,6 @@ sub_result = num1-num2
 mul_result = num1*num2
 div_result = num1/num2
 
-
 if op == "+":
     print(num1+num2)
 elif op == "-":
