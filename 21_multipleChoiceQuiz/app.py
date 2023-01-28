@@ -1,4 +1,4 @@
-from QuestionF import Question
+from question import Question
 
 question_prompts = [
     "What color are apples?\n(a) Red/Green\n(b) Purple\n(c) Orange\n\n",

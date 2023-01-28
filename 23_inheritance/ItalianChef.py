@@ -1,6 +1,6 @@
-from Chef import chef
+from chef import Chef
 
-class italianChef(chef):
+class ItalianChef(Chef):
 
     def make_special_dish(self):
         print("The chef makes chicken pasta")
